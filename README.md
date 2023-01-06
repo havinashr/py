@@ -80,4 +80,4 @@ while True:
             if not re.match(EMAIL_PATTERN, username):
                 print('Invalid email format')
             elif username_exists(username):
-                print('That email is already
+                print('That email is already')
